@@ -1,0 +1,6 @@
+[package]
+name = "rust_matrix_calc_practice"
+version = "0.1.0"
+authors = ["asuki <asukiaaa@gmail.com>"]
+
+[dependencies]
